@@ -10,8 +10,10 @@ This assignment involves analysing and solving Countdowns Numbers Round where th
 ## Use of this Project
 
 ## Getting Started
+If you would like to get started quickly, you can use the following badge to open the computationalTheory.ipynb in Google Colab:
+
 <a target="_blank" href="https://colab.research.google.com/github/ConorPadraigMurphy/Computational_Theory/blob/main/computationalTheory.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open NoteBook In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 
