@@ -16,5 +16,12 @@ If you would like to get started quickly, you can use the following badge to ope
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Otherwise, you can clone this repository by running the following commands in your terminal:
+
+1. Open Command Prompt or Powershell
+2. Navigate to the directory where you want to clone the repository
+3. Clone the repository with the following command:
+    - git clone https://github.com/ConorPadraigMurphy/Computational_Theory.git
 
 ## Getting Help
+If you have any issues or questions while using this project, feel free to open a new issue on the GitHub repository. I'll do my best to help you out.
