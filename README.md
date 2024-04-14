@@ -1,4 +1,5 @@
-# Computational Theory README
+# Computational Theory Repo README
+#### Conor Murphy - G00399177
 
 
 ## About this Project
