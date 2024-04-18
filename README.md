@@ -2,11 +2,42 @@
 
 #### Conor Murphy - G00399177
 
+## Table of Contents
+
+- [Computational Theory Repository README](#computational-theory-repository-readme) - [Conor Murphy - G00399177](#conor-murphy---g00399177)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [About this Project](#about-this-project)
+  - [Key Sections in Assignment](#key-sections-in-assignment)
+  - [Getting Started](#getting-started)
+
+## Overview
+
+This README file serves as a guide on how to navigate this assignment on Countdowns Number Round for the Computational Theory module. If you have any questions or need further assistance, please don't hesitate to reach out at G00399177@atu.ie
+
 ## About this Project
 
-This repository has been created to track the progress of my Computational Theory assignment which was worked on during my fourth year of studying Software Development at Atlantic Technological University.
+Welcome to the Computational; Theory repository. This repository was used to track the progress of my assignment that was undertaken for my Computational Theory module during my fourth year of studying Software Development at Atlantic Technological University.
 
-This assignment involves analysing and solving Countdowns Numbers Round where the contestants are given six random numbers and mathematical operations to reach the target number within the time limit of thirty seconds.
+The goal of this assignment is to analyse the Countdown numbers round as well as implement a Python function called `solve_numbers` that can solve the numbers round of the popular TV game show Countdown.
+
+## Key Sections in Assignment
+
+- Assignment/Notebook Breakdown
+- Countdown
+  - What is Countdown
+  - The Numbers Round
+- Computational Complexity Analysis
+  - Possible Combinations
+  - Impact of Constraints
+  - Time Complexity
+  - Comparison of Algorithms
+    - Brute-Force
+    - Depth-First
+    - Breadth-First
+- Implementing Solutions for Countdown Numbers Round
+  - Explanation of Implementation
+- Conclusion
 
 ## Getting Started
 
@@ -20,7 +51,3 @@ If you would like to get started straight away without cloning the GitHub reposi
 2. Navigate to the directory where you want to clone the repository
 3. Clone the repository with the following command:
    - git clone https://github.com/ConorPadraigMurphy/Computational_Theory.git
-
-## Getting Help
-
-If you have any issues or questions while using this project, feel free to open a new issue on the GitHub repository. I'll do my best to help you out.
